@@ -5,6 +5,8 @@ int main()
 
 	printf(" ");
         printf("hii everyone\n");
-
+	printf("after repo cloning add new\n");
+        
+	printf("some more data\n");
 	return 0;
 }
