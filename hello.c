@@ -8,5 +8,7 @@ int main()
 	printf("after repo cloning add new\n");
         
 	printf("some more data\n");
+
+	printf("git fetch\n");
 	return 0;
 }
